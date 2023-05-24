@@ -1,1 +1,22 @@
-
+Language["de"] = {
+    start = "Start",
+    stop = "Stop",
+    collect = "Sammeln",
+    activity_stopped = "Du hast deine aktuelle Tätigkeit beendet.",
+    activity_started = "Du hast eine Aktivität gestartet,",
+    section_success = "Du hast diese Aktivität erfolgreich abgeschlossen.",
+    section_failure = "Du hast diese Aktivität nicht bestanden, versuche es erneut.",
+    interact_far = "Du bist zu weit von diesem Punkt entfernt, um mit ihm zu interagieren.",
+    interact_breakout = "Starte Ausbruch",
+    breakout_success = "Du haben einen Ausbruch begonnen, führe die Gefangenen in die Freiheit!",
+    breakout_fail = "Du hast es nicht geschafft, auszubrechen, versuche es noch einmal.",
+    breakout_self = "Du bist aus dem Gefängnis geflohen, aber pass auf, die Polizei sucht nach dir!",
+    interact_active_breakout = "Betrete Tunnel",
+    interact_exit_breakout = "Verlasse Tunnel",
+    confirm_transaction = "Bestätige Transaktion",
+    confirm_transaction_desc = "Du kannst diese Transaktion nicht mehr rückgängig machen, sobald sie bestätigt wurde.",
+    missing_item = "Dir Fehlen %s (%s)",
+    not_prison = "Es gibt keinen Gefangenen mit der ID #%s.",
+    in_prison = "Gefangener #%s sitzt ab %s minute(s) at %s.",
+    no_permission = "Du hast keine Erlaubnis, dies zu tun.",
+}
